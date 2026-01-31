@@ -1,0 +1,106 @@
+perks e atributes são para as raças
+
+all perks:
+
+tatics
+second winds
+fight or flight
+night vision
+fortified
+thougness
+impervious
+sharpeye
+cannibalism
+incorruptible
+amphibian
+fireborn
+tireless
+tenacity
+homeostasis
+potent sorcery
+coldblooded
+hotblooded
+deady precision
+frostborn
+shapeshifter
+flight
+trollblood
+knockback immunity
+two-handed specialization
+blood craze
+epic toughness
+swiftness
+armor proficiency
+weapon finesse
+acrobatic dodge
+leap
+charge
+dagger mastery
+spirit bond
+aura mastery
+one handed mastery
+spellcaster
+stealth
+armored caster
+bow mastery
+heavy armor restriction
+unarmored
+blood drinker
+highjump
+
+atributes:
+
+strenght
+agility
+vitality
+authority
+grit
+expertise
+sorcery
+max health
+
+---------------------------------------
+
+abaixo são para as classes:
+
+atributes:
+
+two handed especialization
+barbarian
+epic toughness
+swifitness
+armor especialization
+weapon finesse
+acrobatic dodge
+leap atack
+charge atack
+cuthroat
+beast tamer
+aura mastery
+indantary training
+spellcaster
+stealth
+armored spellcaster
+tactic
+shapeshifter
+bow mastery
+flight
+heavy armor restriction
+unarmored
+encumbrance
+demonic pact
+
+para cada classe existe:
+hp increase: %
+armor per grit: 1.0 a 10
+base crit: %
+crit chance scale: strenght / agility / vitality / authority / grit / expertise / sorcery / max health
+crit scale rate: %
+
+base crit damage: %
+crit damage scale: strenght / agility / vitality / authority / grit / expertise / sorcery / max health
+crit scale rate: %
+
+primary: strenght / agility / vitality / authority / grit / expertise / sorcery / max health
+secondary: strenght / agility / vitality / authority / grit / expertise / sorcery / max health
+minor: strenght / agility / vitality / authority / grit / expertise / sorcery / max health
