@@ -6,3 +6,13 @@ blood wave base damage: 250
 regen every 3.0 seconds (full bloodbar): 10%
 bloodbar decay per tick: 10%
 damage per vit scaling: 50
+
+
+Esta configuração do Cursed (Maldição) no CRNC 
+adiciona a mecânica de sobrevivência definitiva: 
+
+os vampiros agora dependem de causar dano para manter 
+sua barra de sangue (Lifedrain), caso contrário, 
+sofrerão decaimento rápido (Decay). Em troca, possuem 
+um burst de dano massivo (Blood Wave) e uma regeneração 
+poderosa quando saciados.
