@@ -1,6 +1,6 @@
 perks e atributes são para as raças
 
-all perks:
+all perks: (6 perks para cada raça)
 
 tatics
 second winds
@@ -48,7 +48,7 @@ unarmored
 blood drinker
 highjump
 
-atributes:
+atributes: (6 atributos para cada raça)
 
 strenght
 agility
@@ -63,7 +63,7 @@ max health
 
 abaixo são para as classes:
 
-atributes:
+atributes: (4 atributos para cada classe) as classes será uma para cada raça, é uma classe genérica. exemplo: raça ventrue, classe ventru
 
 two handed especialization
 barbarian
@@ -91,15 +91,15 @@ encumbrance
 demonic pact
 
 para cada classe existe:
-hp increase: %
+hp increase: 0% a 25%
 armor per grit: 1.0 a 10
-base crit: %
+base crit: 0% a 25%
 crit chance scale: strenght / agility / vitality / authority / grit / expertise / sorcery / max health
-crit scale rate: %
+crit scale rate: 0% a 25%
 
-base crit damage: %
+base crit damage: 0% a 25%
 crit damage scale: strenght / agility / vitality / authority / grit / expertise / sorcery / max health
-crit scale rate: %
+crit scale rate: 0% a 25%
 
 primary: strenght / agility / vitality / authority / grit / expertise / sorcery / max health
 secondary: strenght / agility / vitality / authority / grit / expertise / sorcery / max health
