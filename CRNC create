@@ -2,97 +2,97 @@
 Ventrue (The Kings)
 Race Attributes: Authority (+10), Vitality (+9), Grit (+7), Strength (+6), Expertise (+5), Agility (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Tactics, Fortified, Impervious.
-Class (Ventrue): (Stats: HP +20% | Armor/Grit: 8.0 | Primary: Authority)
+Class (Ventrum): (Stats: HP +20% | Armor/Grit: 8.0 | Primary: Authority)
 Class Perks: Infantry Training, Aura Mastery, Armor Specialization, Encumbrance.
 
 
 Toreador (The Artists)
 Race Attributes: Agility (+10), Authority (+9), Expertise (+8), Vitality (+6), Max Health (+5), Grit (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Swiftness, Acrobatic Dodge, Second Winds.
-Class (Toreador): (Stats: HP +10% | Armor/Grit: 3.0 | Primary: Agility)
+Class (Toreadus): (Stats: HP +10% | Armor/Grit: 3.0 | Primary: Agility)
 Class Perks: Weapon Finesse, Cutthroat, Tactic, Acrobatic Dodge.
 
 
 Tremere (The Warlocks)
 Race Attributes: Sorcery (+10), Expertise (+9), Authority (+7), Vitality (+6), Grit (+5), Agility (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Potent Sorcery, Incorruptible, Fireborn.
-Class (Tremere): (Stats: HP +5% | Armor/Grit: 4.0 | Primary: Sorcery)
+Class (Tremeris): (Stats: HP +5% | Armor/Grit: 4.0 | Primary: Sorcery)
 Class Perks: Spellcaster, Armored Spellcaster, Aura Mastery, Tactic.
 
 
 Malkavian (The Oracles)
 Race Attributes: Grit (+10), Agility (+9), Sorcery (+7), Expertise (+6), Max Health (+5), Vitality (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Fight or Flight, Tactics, Second Winds.
-Class (Malkavian): (Stats: HP +10% | Armor/Grit: 5.0 | Primary: Grit)
+Class (Malkav): (Stats: HP +10% | Armor/Grit: 5.0 | Primary: Grit)
 Class Perks: Cutthroat, Tactic, Leap Attack, Stealth.
 
 
 Nosferatu (The Sewer Rats)
 Race Attributes: Strength (+10), Agility (+9), Expertise (+7), Vitality (+6), Grit (+5), Max Health (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Cannibalism, Trollblood, Coldblooded.
-Class (Nosferatu): (Stats: HP +15% | Armor/Grit: 6.0 | Primary: Strength)
+Class (Nosferum): (Stats: HP +15% | Armor/Grit: 6.0 | Primary: Strength)
 Class Perks: Cutthroat, Stealth, Beast Tamer, Leap Attack.
 
 
 Banu Haqim (The Assassins)
 Race Attributes: Agility (+10), Strength (+9), Expertise (+8), Grit (+6), Sorcery (+5), Vitality (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Deadly Precision, Weapon Finesse, Sharpeye.
-Class (Banu Haqim): (Stats: HP +10% | Armor/Grit: 4.0 | Primary: Agility)
+Class (Haqimus): (Stats: HP +10% | Armor/Grit: 4.0 | Primary: Agility)
 Class Perks: Cutthroat, Dagger Mastery, Bow Mastery, Stealth.
 
 
 Lasombra (The Shadows)
 Race Attributes: Strength (+10), Authority (+9), Sorcery (+8), Grit (+6), Vitality (+5), Agility (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Knockback Immunity, Fortified, Toughness.
-Class (Lasombra): (Stats: HP +15% | Armor/Grit: 9.0 | Primary: Strength)
+Class (Larsombrus): (Stats: HP +15% | Armor/Grit: 9.0 | Primary: Strength)
 Class Perks: Demonic Pact, Armor Specialization, Cutthroat, Aura Mastery.
 
 
 Brujah (The Rebels)
 Race Attributes: Strength (+10), Vitality (+9), Grit (+8), Max Health (+6), Agility (+5), Expertise (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Blood Craze, Tenacity, Charge.
-Class (Brujah): (Stats: HP +25% | Armor/Grit: 7.0 | Primary: Strength)
+Class (Bruxar): (Stats: HP +25% | Armor/Grit: 7.0 | Primary: Strength)
 Class Perks: Barbarian, Two Handed Specialization, Charge Attack, Epic Toughness.
 
 
 Gangrel (The Beasts)
 Race Attributes: Vitality (+10), Strength (+9), Grit (+8), Agility (+6), Max Health (+5), Expertise (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Shapeshifter, Amphibian, Frostborn.
-Class (Gangrel): (Stats: HP +25% | Armor/Grit: 6.0 | Primary: Vitality)
+Class (Gangris): (Stats: HP +25% | Armor/Grit: 6.0 | Primary: Vitality)
 Class Perks: Shapeshifter, Beast Tamer, Epic Toughness, Leap Attack.
 
 
 The Ministry (The Serpents)
 Race Attributes: Authority (+10), Agility (+9), Expertise (+7), Sorcery (+6), Vitality (+5), Grit (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Coldblooded, Acrobatic Dodge, Tireless.
-Class (Ministry): (Stats: HP +10% | Armor/Grit: 5.0 | Primary: Agility)
+Class (Ministrum): (Stats: HP +10% | Armor/Grit: 5.0 | Primary: Agility)
 Class Perks: Cutthroat, Weapon Finesse, Stealth, Aura Mastery.
 
 
 Ravnos (The Tricksters)
 Race Attributes: Agility (+10), Expertise (+9), Grit (+7), Max Health (+6), Vitality (+5), Strength (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Swiftness, Leap, Tactics.
-Class (Ravnos): (Stats: HP +10% | Armor/Grit: 4.0 | Primary: Agility)
+Class (Ravnus): (Stats: HP +10% | Armor/Grit: 4.0 | Primary: Agility)
 Class Perks: Acrobatic Dodge, Weapon Finesse, Stealth, Cutthroat.
 
 
 Hecata (The Necromancers)
 Race Attributes: Sorcery (+10), Expertise (+9), Vitality (+7), Max Health (+6), Grit (+5), Authority (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Cannibalism, Incorruptible, Fortified.
-Class (Hecata): (Stats: HP +20% | Armor/Grit: 7.0 | Primary: Sorcery)
+Class (Hecatum): (Stats: HP +20% | Armor/Grit: 7.0 | Primary: Sorcery)
 Class Perks: Spellcaster, Demonic Pact, Spirit Bond, Tactic.
 
 
 Tzimisce (The Shapers)
 Race Attributes: Strength (+10), Vitality (+9), Expertise (+7), Sorcery (+6), Grit (+5), Max Health (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Shapeshifter, Blood Craze, Trollblood.
-Class (Tzimisce): (Stats: HP +25% | Armor/Grit: 8.0 | Primary: Strength)
+Class (Tzimisc): (Stats: HP +25% | Armor/Grit: 8.0 | Primary: Strength)
 Class Perks: Shapeshifter, Barbarian, Armor Specialization, Beast Tamer.
 
 
 Salubri (The Healers)
 Race Attributes: Vitality (+10), Authority (+9), Max Health (+7), Grit (+6), Expertise (+5), Agility (+5).
 Race Perks (6): Stealth, Night Vision, Blood Drinker, Incorruptible, Tenacity, Homeostasis.
-Class (Salubri): (Stats: HP +20% | Armor/Grit: 10.0 | Primary: Vitality)
+Class (Salubris): (Stats: HP +20% | Armor/Grit: 10.0 | Primary: Vitality)
 Class Perks: Spirit Bond, Aura Mastery, Unarmored, Armor Specialization.
 
