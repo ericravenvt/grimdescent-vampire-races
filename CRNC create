@@ -1,0 +1,111 @@
+
+Ventrue (The Kings)
+Race Attributes: Authority (+10), Vitality (+8), Grit (+6), Strength (+5), Expertise (+4), Agility (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Tactics, Fortified, Impervious.
+Class (Ventrue): (Perks: Infantry Training, Aura Mastery, Armor Specialization, Encumbrance)
+Stats: HP +20% | Armor/Grit: 8.0 | Primary: Authority | Secondary: Vitality.
+Crit: Scale: Authority | Rate: 15% | Damage: 10%.
+
+
+Toreador (The Artists)
+Race Attributes: Agility (+10), Authority (+8), Expertise (+6), Vitality (+5), Max Health (+4), Grit (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Swiftness, Acrobatic Dodge, Second Winds.
+Class (Toreador): (Perks: Weapon Finesse, Cutthroat, Tactic, Acrobatic Dodge)
+Stats: HP +10% | Armor/Grit: 3.0 | Primary: Agility | Secondary: Expertise.
+Crit: Scale: Agility | Rate: 25% | Damage: 20%.
+
+
+Tremere (The Warlocks)
+Race Attributes: Sorcery (+10), Expertise (+8), Authority (+6), Vitality (+5), Grit (+4), Agility (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Potent Sorcery, Incorruptible, Fireborn.
+Class (Tremere): (Perks: Spellcaster, Armored Spellcaster, Aura Mastery, Tactic)
+Stats: HP +5% | Armor/Grit: 4.0 | Primary: Sorcery | Secondary: Expertise.
+Crit: Scale: Sorcery | Rate: 20% | Damage: 25%.
+
+
+Malkavian (The Oracles)
+Race Attributes: Grit (+10), Agility (+8), Sorcery (+6), Expertise (+5), Max Health (+4), Vitality (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Fight or Flight, Tactics, Second Winds.
+Class (Malkavian): (Perks: Cutthroat, Tactic, Leap Attack, Stealth)
+Stats: HP +10% | Armor/Grit: 5.0 | Primary: Grit | Secondary: Agility.
+Crit: Scale: Agility | Rate: 20% | Damage: 20%.
+
+
+Nosferatu (The Sewer Rats)
+Race Attributes: Strength (+10), Agility (+8), Expertise (+6), Vitality (+5), Grit (+4), Max Health (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Cannibalism, Trollblood, Coldblooded.
+Class (Nosferatu): (Perks: Cutthroat, Stealth, Beast Tamer, Leap Attack)
+Stats: HP +15% | Armor/Grit: 6.0 | Primary: Strength | Secondary: Agility.
+Crit: Scale: Agility | Rate: 25% | Damage: 15%.
+
+
+Banu Haqim (The Assassins)
+Race Attributes: Agility (+10), Strength (+8), Expertise (+6), Grit (+5), Sorcery (+4), Vitality (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Deadly Precision, Weapon Finesse, Sharpeye.
+Class (Banu Haqim): (Perks: Cutthroat, Dagger Mastery, Bow Mastery, Stealth)
+Stats: HP +10% | Armor/Grit: 4.0 | Primary: Agility | Secondary: Strength.
+Crit: Scale: Agility | Rate: 25% | Damage: 25%.
+
+
+Lasombra (The Shadows)
+Race Attributes: Strength (+10), Authority (+8), Sorcery (+6), Grit (+5), Vitality (+4), Agility (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Knockback Immunity, Fortified, Toughness.
+Class (Lasombra): (Perks: Demonic Pact, Armor Specialization, Cutthroat, Aura Mastery)
+Stats: HP +15% | Armor/Grit: 9.0 | Primary: Strength | Secondary: Sorcery.
+Crit: Scale: Strength | Rate: 15% | Damage: 20%.
+
+
+Brujah (The Rebels)
+Race Attributes: Strength (+10), Vitality (+8), Grit (+6), Max Health (+5), Agility (+4), Expertise (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Blood Craze, Tenacity, Charge.
+Class (Brujah): (Perks: Barbarian, Two Handed Specialization, Charge Attack, Epic Toughness)
+Stats: HP +25% | Armor/Grit: 7.0 | Primary: Strength | Secondary: Vitality.
+Crit: Scale: Strength | Rate: 20% | Damage: 15%.
+
+
+Gangrel (The Beasts)
+Race Attributes: Vitality (+10), Strength (+8), Grit (+6), Agility (+5), Max Health (+4), Expertise (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Shapeshifter, Amphibian, Frostborn.
+Class (Gangrel): (Perks: Shapeshifter, Beast Tamer, Epic Toughness, Leap Attack)
+Stats: HP +25% | Armor/Grit: 6.0 | Primary: Vitality | Secondary: Strength.
+Crit: Scale: Vitality | Rate: 10% | Damage: 15%.
+
+
+The Ministry (The Serpents)
+Race Attributes: Authority (+10), Agility (+8), Expertise (+6), Sorcery (+5), Vitality (+4), Grit (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Coldblooded, Acrobatic Dodge, Tireless.
+Class (Ministry): (Perks: Cutthroat, Weapon Finesse, Stealth, Aura Mastery)
+Stats: HP +10% | Armor/Grit: 5.0 | Primary: Agility | Secondary: Authority.
+Crit: Scale: Agility | Rate: 25% | Damage: 20%.
+
+
+Ravnos (The Tricksters)
+Race Attributes: Agility (+10), Expertise (+8), Grit (+6), Max Health (+5), Vitality (+4), Strength (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Swiftness, Leap, Tactics.
+Class (Ravnos): (Perks: Acrobatic Dodge, Weapon Finesse, Stealth, Cutthroat)
+Stats: HP +10% | Armor/Grit: 4.0 | Primary: Agility | Secondary: Expertise.
+Crit: Scale: Agility | Rate: 20% | Damage: 20%.
+
+
+Hecata (The Necromancers)
+Race Attributes: Sorcery (+10), Expertise (+8), Vitality (+6), Max Health (+5), Grit (+4), Authority (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Cannibalism, Incorruptible, Fortified.
+Class (Hecata): (Perks: Spellcaster, Demonic Pact, Spirit Bond, Tactic)
+Stats: HP +20% | Armor/Grit: 7.0 | Primary: Sorcery | Secondary: Vitality.
+Crit: Scale: Sorcery | Rate: 15% | Damage: 25%.
+
+
+Tzimisce (The Shapers)
+Race Attributes: Strength (+10), Vitality (+8), Expertise (+6), Sorcery (+5), Grit (+4), Max Health (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Shapeshifter, Blood Craze, Trollblood.
+Class (Tzimisce): (Perks: Shapeshifter, Barbarian, Armor Specialization, Beast Tamer)
+Stats: HP +25% | Armor/Grit: 8.0 | Primary: Strength | Secondary: Vitality.
+Crit: Scale: Strength | Rate: 15% | Damage: 20%.
+
+
+Salubri (The Healers)
+Race Attributes: Vitality (+10), Authority (+8), Max Health (+6), Grit (+5), Expertise (+4), Agility (+3).
+Race Perks (6): Stealth, Night Vision, Blood Drinker, Incorruptible, Tenacity, Homeostasis.
+Class (Salubri): (Perks: Spirit Bond, Aura Mastery, Unarmored, Armor Specialization)
+Stats: HP +20% | Armor/Grit: 10.0 | Primary: Vitality | Secondary: Authority.
+Crit: Scale: Vitality | Rate: 5% | Damage: 10%.
